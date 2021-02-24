@@ -5,14 +5,14 @@ function add_tv(){
   const taille_ecran_input = document.getElementById('taille_ecran');
   const resolution_input = document.getElementById('resolution');
   const prix_input = document.getElementById('prix');
-  const quantité_input = document.getElementById('quantité');
+  const quantite_input = document.getElementById('quantité');
 
   const mod = modele_input.value;
   const marque = marque_input.value;
   const ecran = taille_ecran_input.value;
   const res = resolution_input.value;
   const prix = prix_input.value;
-  const quant = quantité_input.value;
+  const quant = quantite_input.value;
 
 
   let request = new XMLHttpRequest();

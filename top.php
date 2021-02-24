@@ -22,5 +22,5 @@
     echo'<label> quantité:   ' . $res[$key]['quantité'] . '</label><br>';
     echo'<button onclick="remove_tv(' . $res[$key]['id'] . ')">DELETE</button><br>';
 
-  }
+  }//
 ?>

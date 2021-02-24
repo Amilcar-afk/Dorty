@@ -1,4 +1,4 @@
-//JARRIVE PAS A INSERT MAIS SINON JS C'EST LA VIE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 function add_tv(){
   const modele_input = document.getElementById('modele');
   const marque_input = document.getElementById('marque');
